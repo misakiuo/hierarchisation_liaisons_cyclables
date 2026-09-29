@@ -1,6 +1,6 @@
 # Développement d'une démarche multicritère et multi-échelle pour l'évaluation et la hiérarchisation des liaisons cyclables intercommunales - étude de cas en Alsace
 
-Dans cette page, vous trouverez une série de la méthodologie ainsi que les résultats de cette études
+Dans cette page, vous trouverez une série de la méthodologie ainsi que les résultats 
 
 ---
 
