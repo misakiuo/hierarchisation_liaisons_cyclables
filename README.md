@@ -20,10 +20,10 @@ Dans cette page, vous trouverez une série de la méthodologie ainsi que les ré
 
 ##  D. Mémoire & Présentation
 
-▷ [Télécharger](/mémoire/)
+▷ [Télécharger](/mémoire/memoire-index.html)
 
 ---
-Mise à jour :  le 24 août 2026
+Mise à jour :  le 29 septempbre 2026
 
 Par : Misaki UOZUMI HARRAULT
 
