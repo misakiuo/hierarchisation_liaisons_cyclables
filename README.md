@@ -23,7 +23,7 @@ Dans cette page, vous trouverez une série de la méthodologie ainsi que les ré
 ▷ [Télécharger](/mémoire/memoire-index.html)
 
 ---
-Mise à jour :  le 29 septempbre 2026
+Mise à jour :  le 9 octobre 2026
 
 Par : Misaki UOZUMI HARRAULT
 
